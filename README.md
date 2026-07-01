@@ -25,6 +25,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0001-two-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## Math
@@ -35,6 +36,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## Hash Table
