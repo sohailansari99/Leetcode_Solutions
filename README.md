@@ -17,3 +17,19 @@ This repository is intended not only for tracking my own progress but also for h
 I believe that consistency is the key to mastering algorithms and problem solving. Therefore, I will continue updating this repository as I solve more LeetCode problems and learn new techniques.
 
 If you find this repository helpful, feel free to explore the solutions, suggest improvements, or contribute through pull requests. Thank you for visiting, and happy coding!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0189-rotate-array) |
+<!---LeetCode Topics End-->
