@@ -1,6 +1,6 @@
 # Leetcode_Solutions
 Welcome to my LeetCode Solutions repository! This repository contains my personal collection of coding problem solutions that I solve regularly on LeetCode. The primary goal of this project is to strengthen my understanding of Data Structures and Algorithms (DSA), improve problem-solving skills, and maintain a consistent coding practice.
-The solutions are written primarily in C++ and are organized according to different problem categories and difficulty levels, including Easy, Medium, and Hard. Each solution focuses on writing clean, efficient, and readable code while following good programming practices. Whenever possible, I aim to optimize both time and space complexity.
+The solutions are written primarily in C++ and are organized according to different problem categories and difficulty levels,  including Easy, Medium, and Hard. Each solution focuses on writing clean, efficient, and readable code while following good programming practices. Whenever possible, I aim to optimize both time and space complexity.
 
 This repository serves as a learning journal where I document my progress throughout my DSA journey. By solving problems consistently, I continue to improve my understanding of arrays, strings, linked lists, stacks, queues, trees, graphs, heaps, hash maps, recursion, dynamic programming, greedy algorithms, binary search, sliding window, backtracking, and many other important concepts.
   
