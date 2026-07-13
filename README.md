@@ -43,6 +43,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0189-rotate-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,5 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0125-valid-palindrome](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
