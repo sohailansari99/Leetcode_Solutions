@@ -31,6 +31,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0075-sort-colors](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0283-move-zeroes) |
@@ -60,6 +61,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -113,4 +115,8 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
