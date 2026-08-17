@@ -28,6 +28,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -134,4 +135,12 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0169-majority-element](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
