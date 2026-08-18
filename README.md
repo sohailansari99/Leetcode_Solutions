@@ -41,6 +41,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0283-move-zeroes](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2643-row-with-maximum-ones](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3731-find-missing-elements](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -139,6 +140,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
