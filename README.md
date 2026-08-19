@@ -41,6 +41,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0169-majority-element](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -190,4 +191,8 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
