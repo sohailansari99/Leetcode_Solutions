@@ -34,6 +34,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0054-spiral-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -149,6 +150,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
