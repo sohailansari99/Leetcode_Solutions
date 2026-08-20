@@ -50,6 +50,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -91,6 +92,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0387-first-unique-character-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -204,6 +206,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0238-product-of-array-except-self](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Design
