@@ -95,6 +95,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,5 +254,6 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 ## Linked List
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
