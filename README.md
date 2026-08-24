@@ -254,6 +254,11 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
