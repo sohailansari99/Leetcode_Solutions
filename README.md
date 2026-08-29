@@ -86,6 +86,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
@@ -142,6 +143,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -229,6 +231,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
@@ -307,4 +310,16 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0143-reorder-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
