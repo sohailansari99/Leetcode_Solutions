@@ -127,6 +127,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0229-majority-element-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -159,6 +160,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0242-valid-anagram](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -184,6 +186,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0169-majority-element](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
