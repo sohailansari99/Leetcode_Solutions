@@ -49,6 +49,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0209-minimum-size-subarray-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -260,6 +261,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0136-single-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
