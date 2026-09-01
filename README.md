@@ -79,6 +79,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0048-rotate-image](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -263,6 +264,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0136-single-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
@@ -326,6 +328,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0143-reorder-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
