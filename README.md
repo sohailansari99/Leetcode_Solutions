@@ -185,6 +185,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0053-maximum-subarray](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -261,6 +262,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0136-single-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
