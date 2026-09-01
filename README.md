@@ -278,6 +278,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0260-single-number-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
