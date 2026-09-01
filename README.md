@@ -265,6 +265,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0191-number-of-1-bits](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1009-complement-of-base-10-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
