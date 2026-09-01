@@ -70,6 +70,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -141,6 +142,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -157,6 +159,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2785-sort-vowels-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3731-find-missing-elements](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -180,6 +183,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -340,6 +344,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0326-power-of-three](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
