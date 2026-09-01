@@ -81,6 +81,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0189-rotate-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -270,6 +271,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0231-power-of-two](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
@@ -334,6 +336,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0231-power-of-two](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0342-power-of-four) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
