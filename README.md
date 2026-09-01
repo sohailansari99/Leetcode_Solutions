@@ -40,6 +40,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -258,6 +259,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
