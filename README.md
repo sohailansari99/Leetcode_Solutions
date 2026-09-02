@@ -59,6 +59,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0304-range-sum-query-2d-immutable](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -164,6 +165,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0242-valid-anagram](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -218,6 +220,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0053-maximum-subarray](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Quicksort
 |  |
@@ -231,6 +234,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0055-jump-game](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0860-lemonade-change) |
