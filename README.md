@@ -30,6 +30,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0033-search-in-rotated-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
@@ -212,6 +213,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -224,6 +226,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0455-assign-cookies) |
