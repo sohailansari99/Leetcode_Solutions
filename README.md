@@ -62,6 +62,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0523-continuous-subarray-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0860-lemonade-change) |
@@ -226,6 +227,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0055-jump-game](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0860-lemonade-change) |
 ## Binary Search
 |  |
