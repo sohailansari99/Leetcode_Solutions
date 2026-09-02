@@ -64,6 +64,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0560-subarray-sum-equals-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0860-lemonade-change](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -225,6 +226,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0055-jump-game](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0860-lemonade-change) |
 ## Binary Search
 |  |
 | ------- |
