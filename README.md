@@ -62,6 +62,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0435-non-overlapping-intervals](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -146,6 +147,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0383-ransom-note](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -380,6 +382,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0143-reorder-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -396,4 +399,8 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
