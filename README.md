@@ -72,6 +72,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0860-lemonade-change](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -155,6 +156,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
