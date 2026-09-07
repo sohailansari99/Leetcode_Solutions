@@ -121,6 +121,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0344-reverse-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
@@ -186,6 +187,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0345-reverse-vowels-of-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0796-rotate-string) |
@@ -224,6 +226,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0053-maximum-subarray](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Quicksort
