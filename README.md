@@ -190,6 +190,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0557-reverse-words-in-a-string-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2785-sort-vowels-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Enumeration
@@ -386,6 +387,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0155-min-stack](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Z Algorithm
 |  |
 | ------- |
