@@ -69,6 +69,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0560-subarray-sum-equals-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -400,6 +401,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0234-palindrome-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Z Algorithm
 |  |
@@ -422,6 +424,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
