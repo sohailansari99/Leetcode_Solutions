@@ -201,6 +201,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0796-rotate-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2785-sort-vowels-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Enumeration
@@ -294,6 +295,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Heap (Priority Queue)
@@ -403,6 +405,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0503-next-greater-element-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Z Algorithm
 |  |
 | ------- |
