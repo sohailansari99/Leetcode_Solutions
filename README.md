@@ -41,6 +41,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0088-merge-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0134-gas-station) |
@@ -238,6 +239,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0055-jump-game](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
