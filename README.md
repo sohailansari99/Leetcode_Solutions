@@ -102,6 +102,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0367-valid-perfect-square](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -134,6 +135,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -280,6 +282,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Union-Find
