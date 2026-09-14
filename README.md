@@ -249,6 +249,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -439,4 +440,8 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
