@@ -90,6 +90,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [2094-finding-3-digit-even-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3731-find-missing-elements](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -237,6 +238,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0383-ransom-note](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -288,6 +290,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Union-Find
 |  |
 | ------- |
