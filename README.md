@@ -217,6 +217,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2785-sort-vowels-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -321,6 +322,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
