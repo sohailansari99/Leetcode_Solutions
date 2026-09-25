@@ -165,6 +165,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0349-intersection-of-two-arrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -211,6 +212,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0383-ransom-note](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0541-reverse-string-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0796-rotate-string) |
@@ -237,6 +239,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0169-majority-element](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Counting
 |  |
 | ------- |
@@ -385,6 +388,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
 |  |
