@@ -52,6 +52,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
@@ -100,6 +101,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0048-rotate-image](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0342-power-of-four) |
@@ -226,11 +228,13 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
@@ -470,4 +474,16 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0075-sort-colors) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
