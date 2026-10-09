@@ -83,6 +83,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0977-squares-of-a-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -198,6 +199,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0455-assign-cookies](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2785-sort-vowels-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
@@ -344,6 +346,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String Matching
 |  |
 | ------- |
