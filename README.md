@@ -97,6 +97,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [2460-apply-operations-to-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3731-find-missing-elements](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -392,6 +393,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Design
 |  |
 | ------- |
