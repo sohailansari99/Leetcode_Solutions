@@ -89,6 +89,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0974-subarray-sums-divisible-by-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -456,6 +457,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0237-delete-node-in-a-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -488,6 +490,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0496-next-greater-element-i](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Z Algorithm
@@ -512,6 +515,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0496-next-greater-element-i](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
