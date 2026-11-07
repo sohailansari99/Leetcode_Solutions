@@ -90,6 +90,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0918-maximum-sum-circular-subarray](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -168,6 +169,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0876-middle-of-the-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0986-interval-list-intersections) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -567,4 +569,8 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
