@@ -255,6 +255,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0796-rotate-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -506,6 +507,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0739-daily-temperatures](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Z Algorithm
