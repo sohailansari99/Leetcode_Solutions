@@ -5,8 +5,14 @@ public:
             return false;
         }
 
-        string temp = s+s;
-
-        return temp.find(goal) != string::npos;
+        for(int i=0;i<s.length(); i++){
+            if(s == goal){
+                return true;
+            }
+            char ch = s[0];
+            s.erase(0,1);
+            s.push_back(ch);
+        }
+        return false;
     }
 };
