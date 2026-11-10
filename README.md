@@ -134,6 +134,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0633-sum-of-square-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1903-largest-odd-number-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2235-add-two-integers) |
 | [3871-count-commas-in-range-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -258,6 +259,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
+| [1903-largest-odd-number-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2785-sort-vowels-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
@@ -325,6 +327,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0455-assign-cookies](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0860-lemonade-change) |
+| [1903-largest-odd-number-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Binary Search
 |  |
