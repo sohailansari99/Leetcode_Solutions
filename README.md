@@ -197,6 +197,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0349-intersection-of-two-arrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -226,6 +227,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0268-missing-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -252,6 +254,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0345-reverse-vowels-of-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0541-reverse-string-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
@@ -413,6 +416,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0268-missing-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
