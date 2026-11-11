@@ -242,6 +242,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -298,6 +299,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0055-jump-game) |
@@ -503,6 +505,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
@@ -541,6 +544,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Bubble Sort
 |  |
 | ------- |
