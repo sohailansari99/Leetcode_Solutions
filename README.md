@@ -444,6 +444,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0155-min-stack](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0901-online-stock-span](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -512,6 +513,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0496-next-greater-element-i](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -539,6 +541,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0496-next-greater-element-i](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bracket Sequences
 |  |
@@ -585,4 +588,8 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0986-interval-list-intersections) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
