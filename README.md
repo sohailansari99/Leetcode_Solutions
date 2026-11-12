@@ -273,6 +273,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [1903-largest-odd-number-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2785-sort-vowels-in-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
@@ -476,6 +477,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [1004-max-consecutive-ones-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
