@@ -101,6 +101,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -137,6 +138,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0628-maximum-product-of-three-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -324,6 +326,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0435-non-overlapping-intervals](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Quicksort
 |  |
@@ -451,6 +454,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [1004-max-consecutive-ones-iii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
