@@ -38,6 +38,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [0056-merge-intervals](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
@@ -439,6 +440,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0190-reverse-bits) |
@@ -656,4 +658,8 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
