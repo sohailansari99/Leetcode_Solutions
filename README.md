@@ -665,4 +665,12 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | ------- |
 | [0078-subsets](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0090-subsets-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
