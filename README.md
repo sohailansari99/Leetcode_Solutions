@@ -149,6 +149,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [1903-largest-odd-number-in-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2235-add-two-integers) |
+| [3360-stone-removal-game](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3360-stone-removal-game) |
 | [3871-count-commas-in-range-ii](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
 |  |
@@ -423,6 +424,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 | [1920-build-array-from-permutation](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3360-stone-removal-game](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
