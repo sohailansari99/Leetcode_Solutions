@@ -129,6 +129,7 @@ If you find this repository helpful, feel free to explore the solutions, suggest
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sohailansari99/Leetcode_Solutions/tree/master/0204-count-primes) |
